@@ -1,0 +1,2 @@
+# A.py
+import B
